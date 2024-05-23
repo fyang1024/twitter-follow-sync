@@ -15,8 +15,8 @@
        "follow",
        "sync"
      ],
-     "author": "Your Name",
-     "license": "ISC",
+     "author": "fei",
+     "license": "MIT",
      "bugs": {
        "url": "https://github.com/fyang1024/twitter-follow-sync/issues"
      },
