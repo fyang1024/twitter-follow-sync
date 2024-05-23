@@ -1,0 +1,27 @@
+   {
+     "name": "twitter-follow-sync",
+     "version": "1.0.0",
+     "description": "A package to sync followers from one Twitter account to another",
+     "main": "index.js",
+     "scripts": {
+       "test": "echo \"No test specified\" && exit 1"
+     },
+     "repository": {
+       "type": "git",
+       "url": "git+https://github.com/fyang1024/twitter-follow-sync.git"
+     },
+     "keywords": [
+       "twitter",
+       "follow",
+       "sync"
+     ],
+     "author": "Your Name",
+     "license": "ISC",
+     "bugs": {
+       "url": "https://github.com/fyang1024/twitter-follow-sync/issues"
+     },
+     "homepage": "https://github.com/fyang1024/twitter-follow-sync#readme",
+     "dependencies": {
+       "twitter-api-v2": "^1.10.0"
+     }
+   }

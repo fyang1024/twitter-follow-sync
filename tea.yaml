@@ -1,0 +1,6 @@
+# https://docs.tea.xyz/tea/i-want-to.../begin-earning-tea-and-interact-with-the-protocol/registering-an-oss-project#what-is-the-tea.yaml-file-and-why-does-my-project-need-it
+---
+version: 1.0.0
+codeOwners:
+  - '0xD8bBb2AF2fA9D94b1ACF7b790708f10349092a34'
+quorum: 1
